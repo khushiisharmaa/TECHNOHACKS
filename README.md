@@ -25,7 +25,7 @@ To run this project, you will need the following:
 In this task, we clean the dataset by removing missing values and handling outliers. We use Python libraries like pandas and numpy for data manipulation.
 
 **Instructions**:
-- Execute the `data_cleaning.ipynb` notebook to perform data cleaning.
+- Execute the `TASK1.ipynb` notebook to perform data cleaning.
 - This notebook will clean the dataset and provide a cleaned dataset as an output.
 
 ## Task 2: Calculate Summary Statistics
@@ -33,7 +33,7 @@ In this task, we clean the dataset by removing missing values and handling outli
 In this task, we calculate summary statistics (mean, median, mode, standard deviation) for the cleaned dataset.
 
 **Instructions**:
-- Execute the `summary_statistics.ipynb` notebook to calculate summary statistics.
+- Execute the `TASK2.ipynb` notebook to calculate summary statistics.
 - The notebook will display the calculated statistics for the dataset.
 
 ## Task 3: Visualization using Histogram
@@ -41,7 +41,7 @@ In this task, we calculate summary statistics (mean, median, mode, standard devi
 In this task, we create a histogram or bar chart to visualize the distribution of data in the dataset.
 
 **Instructions**:
-- Execute the `data_visualization.ipynb` notebook to create a histogram or bar chart.
+- Execute the `TASK3.ipynb` notebook to create a histogram or bar chart.
 - The notebook will generate visualizations to help you understand the data distribution.
 
 ## Conclusion

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to perform data cleaning, calculate summary statistics, and create visualizations using histograms or bar charts for a given dataset. The tasks are organized as follows:
+This aims to perform data cleaning, calculate summary statistics, and create visualizations using histograms or bar charts for a given dataset. The tasks are organized as follows:
 
 1. Task 1: Data Cleaning
    - Remove missing values from the dataset.
